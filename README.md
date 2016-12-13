@@ -65,7 +65,7 @@ Once your server is up, you probably want to make yourself an Administrator (-) 
 
 ### db.json
 
-To become an Administrator, edit congfig.json.
+To become an Administrator, edit config.json.
 
 
 //{"Chen": 4, "Francexi": 4, "Access": 4}
