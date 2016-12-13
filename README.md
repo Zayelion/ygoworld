@@ -65,15 +65,16 @@ Once your server is up, you probably want to make yourself an Administrator (-) 
 
 ### db.json
 
-To become an Administrator, create a file named `db.json` containing
+To become an Administrator, edit congfig.json.
 
-```js
-{
-    "auths": {
-        "USER": 4
-    }
-}
-```
+
+//{"Chen": 4, "Francexi": 3, "Access": 3}
+
+		0: ' ', //user
+		1: '+', //voice -> tournaments and broadcast
+		2: '*', //mod   -> ban,mute
+		3: '#', //admin -> promote
+		4: '-' //owner  -> console
 
 Replace `USER` with the username that you would like to become an Administrator.
 
