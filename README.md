@@ -45,7 +45,7 @@ $ node lib/server.js
 
 ## Building
 
-To build YGOSiM, you need to install [Grunt](http://gruntjs.com) globally:
+To build YGOWorld, you need to install [Grunt](http://gruntjs.com) globally:
 
 ```bash
 $ npm install -g grunt-cli
