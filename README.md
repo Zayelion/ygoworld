@@ -68,7 +68,7 @@ Once your server is up, you probably want to make yourself an Administrator (-) 
 To become an Administrator, edit congfig.json.
 
 
-//{"Chen": 4, "Francexi": 3, "Access": 3}
+//{"Chen": 4, "Francexi": 4, "Access": 4}
 
 		0: ' ', //user
 		1: '+', //voice -> tournaments and broadcast
