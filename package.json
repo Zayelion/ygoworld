@@ -4,7 +4,8 @@
     "description": "Manual Yu-Gi-Oh! Simulator.",
     "author": "Chen",
     "contributors": [
-        ""
+        "Access Denied"
+        "Francexi"
     ],
     "scripts": {
         "test": "grunt test",
