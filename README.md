@@ -76,7 +76,6 @@ To become an Administrator, edit congfig.json.
 		3: '#', //admin -> promote
 		4: '-' //owner  -> console
 
-Replace `USER` with the username that you would like to become an Administrator.
 
 ## License
 
